@@ -1,0 +1,60 @@
+.text-box10 {
+    width: 90%;
+    position: absolute;
+    top: 50%;
+}
+
+.text-box8 {
+    width: 100%;
+    position: absolute;
+    top: 20%;
+    right: 10%;
+}
+
+.pnewsource {
+    color: gray;
+}
+
+.pnewsource1 {
+    color: gray;
+    left: 10%;
+    position: absolute;
+    top: 360%;
+}
+
+.inputname {
+    width: 25%;
+    height: 55%;
+    position: absolute;
+    left: 10%;
+    top: -125%;
+}
+
+.combo {
+    width: 25%;
+    height: 55%;
+    position: absolute;
+    left: 10%;
+    top: 170%;
+}
+
+.inputRSS {
+    width: 25%;
+    height: 55%;
+    position: absolute;
+    left: 10%;
+    top: 25%;
+}
+
+.icon1 {
+    color: white;
+    background-color: gray;
+    text-decoration: none;
+    width: 10%;
+    height: 70%;
+    position: absolute;
+    top: 500%;
+    left: 10%;
+    cursor: pointer;
+    border: solid gray;
+}
