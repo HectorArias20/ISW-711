@@ -1,0 +1,60 @@
+.container_categories {
+    width: 25%;
+    position: absolute;
+    top: 25%;
+}
+
+.cate-boton {
+    position: absolute;
+    top: 900%;
+    width: 40%;
+    height: 125%;
+    right: 45%;
+    background-color: gray;
+    color: white;
+    border: solid gray;
+}
+
+table {
+    background-color: white;
+    border: solid 1px gray;
+    margin: 25px;
+}
+
+.tablecontainer {
+    right: 50%;
+    position: absolute;
+}
+
+.cateboton1 {
+    width: 50%;
+    height: 30%;
+    background-color: lightblue;
+    border-color: lightblue;
+    cursor: pointer;
+}
+
+.cateboton2 {
+    width: 35%;
+    height: 20%;
+    background-color: lightblue;
+    border-color: lightblue;
+    cursor: pointer;
+}
+
+thead {
+    background-color: lightblue;
+}
+
+td {
+    border-right: 0px solid black;
+    position: relative;
+    left: 20%;
+}
+
+.tex_field {
+    top: 220%;
+    position: absolute;
+    width: 100%;
+    border: solid gray;
+}

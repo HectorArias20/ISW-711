@@ -1,0 +1,7 @@
+p {
+    color: rgb(14, 13, 13);
+}
+.newsContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
